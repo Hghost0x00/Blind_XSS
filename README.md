@@ -20,6 +20,12 @@ BlindXSS is an automated web security testing tool designed to identify potentia
 - **Automated Form Detection**: Automatically finds and tests input fields, textareas, select elements, and contenteditable elements
 - **Comprehensive Testing**: Tests various HTML input types and interactive elements
 - **Smart Navigation**: Handles form submissions and page redirections intelligently
+- 
+## 🔄 Immediate Updates (Next Few Days):
+
+- Cookie Support - The main feature you mentioned for testing authenticated areas
+- Enhanced Configuration - More customization options
+- Improved Reporting - Better output and logging
 
 ## 🛠️ Requirements
 
@@ -72,7 +78,6 @@ Tip: Using `xss.report` payloads is one of the easiest ways to use this tool. Si
 
 4. **Monitor the testing process:**
    - The tool will automatically find and test all interactive elements
-
 
 
 ## 🐛 Troubleshooting
