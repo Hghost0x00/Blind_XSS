@@ -96,7 +96,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Created by @hghost010
+- Created by [@hghost010](https://x.com/hghost010)
 - Built with Selenium WebDriver
 - Uses webdriver-manager for Chrome driver management
 
