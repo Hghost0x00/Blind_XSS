@@ -106,3 +106,4 @@ If you find this tool helpful, please consider:
 - ⭐ Starring the repository
 - 🐛 Reporting bugs and issues
 - 💡 Suggesting new features
+- ☕ Buy me a coffee: 2CZhBKWbacJyVs7k7BJiC3ay4tq3HsPtUysMeSqjRRd4 (Solana)
